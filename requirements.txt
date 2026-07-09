@@ -3,4 +3,9 @@ numpy
 matplotlib
 seaborn
 scipy
+scikit-learn
+catboost
+joblib
 kagglehub
+ipython
+jupyter
